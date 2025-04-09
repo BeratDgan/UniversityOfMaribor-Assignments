@@ -1,0 +1,14 @@
+C:\Users\dganb\OneDrive\Belgeler\csharpp\Assignment3-DataStructures\Assignment3-DataStructures\bin\Debug\net9.0\Assignment3-DataStructures.exe
+C:\Users\dganb\OneDrive\Belgeler\csharpp\Assignment3-DataStructures\Assignment3-DataStructures\bin\Debug\net9.0\Assignment3-DataStructures.deps.json
+C:\Users\dganb\OneDrive\Belgeler\csharpp\Assignment3-DataStructures\Assignment3-DataStructures\bin\Debug\net9.0\Assignment3-DataStructures.runtimeconfig.json
+C:\Users\dganb\OneDrive\Belgeler\csharpp\Assignment3-DataStructures\Assignment3-DataStructures\bin\Debug\net9.0\Assignment3-DataStructures.dll
+C:\Users\dganb\OneDrive\Belgeler\csharpp\Assignment3-DataStructures\Assignment3-DataStructures\bin\Debug\net9.0\Assignment3-DataStructures.pdb
+C:\Users\dganb\OneDrive\Belgeler\csharpp\Assignment3-DataStructures\Assignment3-DataStructures\obj\Debug\net9.0\Assignment3-DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dganb\OneDrive\Belgeler\csharpp\Assignment3-DataStructures\Assignment3-DataStructures\obj\Debug\net9.0\Assignment3-DataStructures.AssemblyInfoInputs.cache
+C:\Users\dganb\OneDrive\Belgeler\csharpp\Assignment3-DataStructures\Assignment3-DataStructures\obj\Debug\net9.0\Assignment3-DataStructures.AssemblyInfo.cs
+C:\Users\dganb\OneDrive\Belgeler\csharpp\Assignment3-DataStructures\Assignment3-DataStructures\obj\Debug\net9.0\Assignment3-DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\dganb\OneDrive\Belgeler\csharpp\Assignment3-DataStructures\Assignment3-DataStructures\obj\Debug\net9.0\Assignment3-DataStructures.dll
+C:\Users\dganb\OneDrive\Belgeler\csharpp\Assignment3-DataStructures\Assignment3-DataStructures\obj\Debug\net9.0\refint\Assignment3-DataStructures.dll
+C:\Users\dganb\OneDrive\Belgeler\csharpp\Assignment3-DataStructures\Assignment3-DataStructures\obj\Debug\net9.0\Assignment3-DataStructures.pdb
+C:\Users\dganb\OneDrive\Belgeler\csharpp\Assignment3-DataStructures\Assignment3-DataStructures\obj\Debug\net9.0\Assignment3-DataStructures.genruntimeconfig.cache
+C:\Users\dganb\OneDrive\Belgeler\csharpp\Assignment3-DataStructures\Assignment3-DataStructures\obj\Debug\net9.0\ref\Assignment3-DataStructures.dll
