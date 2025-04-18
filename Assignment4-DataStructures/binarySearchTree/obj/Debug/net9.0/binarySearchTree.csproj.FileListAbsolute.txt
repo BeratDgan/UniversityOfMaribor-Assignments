@@ -1,0 +1,15 @@
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\bin\Debug\net9.0\binarySearchTree.exe
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\bin\Debug\net9.0\binarySearchTree.deps.json
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\bin\Debug\net9.0\binarySearchTree.runtimeconfig.json
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\bin\Debug\net9.0\binarySearchTree.dll
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\bin\Debug\net9.0\binarySearchTree.pdb
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\obj\Debug\net9.0\binarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\obj\Debug\net9.0\binarySearchTree.AssemblyInfoInputs.cache
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\obj\Debug\net9.0\binarySearchTree.AssemblyInfo.cs
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\obj\Debug\net9.0\binarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\obj\Debug\net9.0\binarySearchTree.sourcelink.json
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\obj\Debug\net9.0\binarySearchTree.dll
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\obj\Debug\net9.0\refint\binarySearchTree.dll
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\obj\Debug\net9.0\binarySearchTree.pdb
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\obj\Debug\net9.0\binarySearchTree.genruntimeconfig.cache
+C:\Users\dganb\OneDrive\Belgeler\UniversityOfMaribor-Assignments\Assignment4-DataStructures\binarySearchTree\obj\Debug\net9.0\ref\binarySearchTree.dll
