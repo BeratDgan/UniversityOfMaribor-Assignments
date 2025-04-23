@@ -140,6 +140,9 @@ namespace Name
                         Console.WriteLine("Exiting program.");
                         break;
 
+                    case 9:
+                        Console.WriteLine("node count: " + bst.CountNodes());
+                        break;
                     default:
                         Console.WriteLine("Invalid choice. Please enter a number between 1 and 8.");
                         break;
